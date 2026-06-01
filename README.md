@@ -1,6 +1,5 @@
 # KavieshwaraM
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=KAVIESHWARA%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI+Automation+Developer+%7C+Building+the+Future+with+AI+%26+Agents&descAlignY=62&descSize=16" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kavieshwara%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Developer%20%7C%20Building%20with%20AI%20%26%20Agents&descAlignY=62&descSize=16" width="100%"/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Automation+Developer+%F0%9F%A4%96;Building+Voice+Agents+%26+AI+Workflows+%F0%9F%94%97;Freelance+Dev+%7C+Founder+%40+Optify+AI+%F0%9F%9A%80;LLMs+%7C+n8n+%7C+Python+%7C+Docker+%F0%9F%90%8D" alt="Typing SVG" />
 </div>
