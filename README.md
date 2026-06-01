@@ -1,12 +1,14 @@
 # KavieshwaraM
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Kavieshwara%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Automation%20Developer%20%7C%20Building%20with%20AI%20%26%20Agents&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling" width="100%"/>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Automation+Developer+%F0%9F%A4%96;Building+Voice+Agents+%26+AI+Workflows+%F0%9F%94%97;Freelance+Dev+%7C+Founder+%40+Optify+AI+%F0%9F%9A%80;LLMs+%7C+n8n+%7C+Python+%7C+Docker+%F0%9F%90%8D" alt="Typing SVG" />
+  <h1>⚡ Kavieshwara M</h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI+Automation+Developer;Building+Voice+Agents+and+AI+Workflows;Freelance+Dev+%2B+Founder+at+Optify+AI;LLMs+%2B+n8n+%2B+Python+%2B+Docker" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=kavieshwara&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=KavieshwaraM&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
 ---
 
@@ -86,10 +88,10 @@ class Kavieshwara:
 
 <div align="center">
   <a href="https://github.com/kavieshwara">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kavieshwara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KavieshwaraM&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
   <a href="https://github.com/kavieshwara">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavieshwara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavieshwaraM&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
@@ -106,7 +108,7 @@ class Kavieshwara:
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavieshwara&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KavieshwaraM&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -114,7 +116,7 @@ class Kavieshwara:
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavieshwara&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KavieshwaraM&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
 </div>
 
 ---
